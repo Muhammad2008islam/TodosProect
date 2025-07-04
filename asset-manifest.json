@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodosProect/static/css/main.b2166a52.css",
+    "main.js": "/TodosProect/static/js/main.daaca099.js",
+    "index.html": "/TodosProect/index.html",
+    "main.b2166a52.css.map": "/TodosProect/static/css/main.b2166a52.css.map",
+    "main.daaca099.js.map": "/TodosProect/static/js/main.daaca099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2166a52.css",
+    "static/js/main.daaca099.js"
+  ]
+}
