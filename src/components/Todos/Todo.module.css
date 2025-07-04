@@ -1,0 +1,48 @@
+.Todo {
+  display: flex;
+  align-items: center;
+  margin: 14px auto;
+  padding: 11px 10px;
+  font-size: 23px;
+  border-radius: 5px;
+  border: 2px solid #555;
+  color: rgb(4, 17, 29);
+  background-color: aliceblue;
+  width: 65%;
+}
+.todoText {
+  width: 100%;
+  text-align: left;
+  margin-left: 10px;
+}
+.todoIcon {
+  color: rgb(104, 214, 40);
+}
+.deleteIcon {
+  padding-right: 15px;
+  font-size: 30px;
+  cursor: pointer;
+}
+.checkIcon {
+  font-size: 30px;
+  padding-right: 6px;
+}
+.deleteIcon:hover {
+  transform: scale(1.5);
+  color: red;
+}
+.checkIcon:hover {
+  transform: scale(1.5);
+  color: green;
+}
+.checkChange {
+  background-color: #352e2e;
+  color: grey;
+
+  display: flex;
+  align-items: center;
+  margin: 14px auto;
+  padding: 11px 10px;
+  font-size: 23px;
+  width: 65%;
+}

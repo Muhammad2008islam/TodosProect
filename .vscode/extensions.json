@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",          // ESLint: подсветка и авто-исправление проблем с линтингом
+    "esbenp.prettier-vscode",          // Prettier: авто-форматирование кода
+    "dsznajder.es7-react-js-snippets", // Сниппеты для React/Redux/GraphQL
+    "formulahendry.auto-close-tag",    // Автозакрытие html/jsx-тегов
+    "formulahendry.auto-rename-tag",   // Автопереименование парных тегов
+    "vscode-icons-team.vscode-icons",  // Иконки файлового менеджера
+    "eamodio.gitlens",                 // Инструменты Git прямо в редакторе
+    "streetsidesoftware.code-spell-checker" // Проверка орфографии в комментариях/строках
+  ]
+} 
