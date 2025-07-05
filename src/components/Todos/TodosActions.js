@@ -7,8 +7,8 @@ function TodosActions({ resetTodos, clearTodos, disable }) {
       <Button title="Reset" onClick={resetTodos}>
         <RiRefreshLine />
       </Button>
-      <Button title="Clear" onClick={clearTodos} disable={!disable}></Button>
-      <RiDeleteBackLine />
+      <Button title="Clear" onClick={clearTodos} disable={!disable}><RiDeleteBackLine /></Button>
+      
     </div>
   )
 }
